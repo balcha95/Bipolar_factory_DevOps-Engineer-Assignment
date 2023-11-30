@@ -6,7 +6,7 @@ wget https://github.com/prometheus/prometheus/releases/download/v2.38.0/promethe
 
 tar -zxvf prometheus-2.38.0.linux-amd64.tar.gz
 
-###===> Create following file:
+###===> Create following file :
 
 sudo vi /etc/systemd/system/prometheus.service
 #-------------------------------------------------------------------------
